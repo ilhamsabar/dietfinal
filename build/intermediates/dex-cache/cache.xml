@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\Dietfinal\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\Dietfinal\app\build\intermediates\pre-dexed\debug\classes-19fb7892804a304a82e840cba9fabf52bbe9d28a.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\Dietfinal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\Dietfinal\app\build\intermediates\pre-dexed\debug\classes-2dc8f8d9ddac5e36234b736a29ae33294fc51a32.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\cobadiet\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\cobadiet\app\build\intermediates\pre-dexed\debug\classes-48eef0ca15af73cc77aecd4df81f0bee84a4551c.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\cobadiet\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\cobadiet\app\build\intermediates\pre-dexed\debug\classes-c83a676de404b85480279821aad20f391760542f.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\DietSehat\app\build\intermediates\exploded-aar\me.drakeet.materialdialog\library\1.2.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8646b1e69dd5d923d8866dc4311859f0fbca456c">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\DietSehat\app\build\intermediates\pre-dexed\debug\classes-6de024f06be0f5a3d0ddd25def2e8c334d035623.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\DietSehat\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\DietSehat\app\build\intermediates\pre-dexed\debug\classes-c7b4b245d3e94480dafe76aaca9a5b3e43a2d262.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\DietSehat\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\DietSehat\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-c7e5376bbf80c0be2dbf889ffa177c2702594538.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\DietSehat\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\DietSehat\app\build\intermediates\pre-dexed\debug\classes-3ef7d01bac8dd33479c991a2149e8863001b13e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\Dietfinal\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\Dietfinal\app\build\intermediates\pre-dexed\debug\classes-6b52b5fb17f66fc91c588672f5a7790177eecaa5.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\DietSehat\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\DietSehat\app\build\intermediates\pre-dexed\debug\classes-3c4c68bfe44c8b0ef50e7f2c4b99b48da8325164.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\cobadiet\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\cobadiet\app\build\intermediates\pre-dexed\debug\classes-03afff494d598789c0108d7cfcb1efbc8c02334b.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\cobadiet\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\cobadiet\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-7da45e25c85095f7000b7bfe1284df38115dbd28.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\cobadiet1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\cobadiet1\app\build\intermediates\pre-dexed\debug\classes-e827e9aa01043a5d0586a6ef6fb2cd90d314c9ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\cobadiet\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-a88158d71f3096686eaf1386f0c9dba9fa5089d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\Dietfinal\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\Dietfinal\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-67a86b8c6817516bbda5639611ae01eef2f1df0f.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\Dietfinal\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\Dietfinal\app\build\intermediates\pre-dexed\debug\classes-6d458bb29ea353516710156877446e788235bc24.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\cobadiet1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\cobadiet1\app\build\intermediates\pre-dexed\debug\classes-2f9a276a30b75d8598e63e275c4d87ec34c7bf11.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\cobadiet1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\cobadiet1\app\build\intermediates\pre-dexed\debug\classes-bbb2c4dbfefca0df4b01ea8f5f806f4eaa7263e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\cobadiet\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\cobadiet\app\build\intermediates\pre-dexed\debug\classes-bb071aa8e173137ca18ee6d2a025fc8c3628eb9a.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\DietSehat\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\DietSehat\app\build\intermediates\pre-dexed\debug\classes-2b249c8028ce08476d9ff68518497f482be42a50.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\cobadiet1\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\cobadiet1\app\build\intermediates\pre-dexed\debug\classes-1ee3381cda3a5abc7483604e2f66ddcae946231d.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\cobadiet\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\cobadiet\app\build\intermediates\pre-dexed\debug\classes-5cc6134e98e1d327610e89b5b1de4855ff915011.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\cobadiet1\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\cobadiet1\app\build\intermediates\pre-dexed\debug\classes-7cd6d0cef28b09edc8ea897bd3775a6ddbbc2cc5.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\Dietfinal\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\Dietfinal\app\build\intermediates\pre-dexed\debug\classes-d90921995e20210f471f7718803eaf6b5a8c4c1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\cobadiet1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\cobadiet1\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-0ef5942f4b08abcc06d965aa4ebad569140279e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\DietSehat\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\DietSehat\app\build\intermediates\pre-dexed\debug\classes-da03c548a800eb42b69c714487eaa1c234bde231.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilham sabar\AndroidStudioProjects\Dietfinal\app\build\intermediates\exploded-aar\me.drakeet.materialdialog\library\1.2.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8646b1e69dd5d923d8866dc4311859f0fbca456c">
+        <dex dex="C:\Users\ilham sabar\AndroidStudioProjects\Dietfinal\app\build\intermediates\pre-dexed\debug\classes-deb5dd4105762fdbb035f42ba6fdff699bee5c09.jar" />
+    </item>
+
+</items>
